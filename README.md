@@ -6,9 +6,17 @@
  - 3º versão irá usar o CSS com o layout de grid;  
  - 4º versão o CSS será com o flexbox. Por fim na última versão irá usar o CSS com Bootstrap.
 
+## Sem formatação 🏴
+
+Arquivos puros, da estrutura do projeto, sem nenhuma formatação
+
+![Brafé puro sem formatação](https://user-images.githubusercontent.com/68359459/119235789-93487b00-bb0a-11eb-8c56-d6ac7c6f288f.png)
+
+
 ## CSS Puro 🏴
 
 Nessa versão usou-se somente o CSS puro, para deixar o layout de uma forma até responsivel também, para fixa o conceito de posicionamento usando somente o CSS
-![Brafe CSS Puro](https://user-images.githubusercontent.com/68359459/119208007-c6d9c580-ba76-11eb-9193-20142e7c5051.png)
+![Brafé com CSS puro](https://user-images.githubusercontent.com/68359459/119235742-6a27ea80-bb0a-11eb-8a51-7a1a7452f9e2.png)
+
 
 ![](https://github.com/CristianoDaSilvaFerreira/Brafe/blob/main/Brafe-css-puro/CSS-puro.gif)
