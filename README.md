@@ -17,6 +17,9 @@ Arquivos puros, da estrutura do projeto, sem nenhuma formatação
 ![Brafé com CSS puro](https://user-images.githubusercontent.com/68359459/119235742-6a27ea80-bb0a-11eb-8a51-7a1a7452f9e2.png)
 
 
+### Demostração sem formatação 🎥
+![](https://github.com/CristianoDaSilvaFerreira/Projeto-Brafe/blob/main/.gitattributes)
+
 ## CSS Puro 📄
 
 Nessa versão usou-se somente o CSS puro, para deixar o layout de uma forma até responsivel também, para fixa o conceito de posicionamento usando somente o CSS
@@ -26,7 +29,7 @@ Nessa versão usou-se somente o CSS puro, para deixar o layout de uma forma até
 
 ![](https://github.com/CristianoDaSilvaFerreira/Projeto-Brafe/blob/CSS-Puro/Brafe-css-puro/CSS-puro.gif)
 
-## Com Grid
+## Com Grid 📄
 
 Aqui e usando o sistema de Grid, sendo divido em 12 partes iguais
 
