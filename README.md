@@ -19,4 +19,6 @@ Nessa versão usou-se somente o CSS puro, para deixar o layout de uma forma até
 ![Brafé com CSS puro](https://user-images.githubusercontent.com/68359459/119235742-6a27ea80-bb0a-11eb-8a51-7a1a7452f9e2.png)
 
 
-![](https://github.com/CristianoDaSilvaFerreira/Brafe/blob/main/Brafe-css-puro/CSS-puro.gif)
+### Demostração 🎥
+
+![](https://github.com/CristianoDaSilvaFerreira/Projeto-Brafe/blob/CSS-Puro/Brafe-css-puro/CSS-puro.gif)
